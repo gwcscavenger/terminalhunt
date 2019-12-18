@@ -1,0 +1,4 @@
+The clue is in this folder...
+But it doesn't seem to be appearing when you type "ls"!
+Use the "man" command on ls for ideas!
+(Hint: What were those dashes after a command?)
